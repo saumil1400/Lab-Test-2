@@ -20,6 +20,8 @@ int finds(string str1,string str2,int i,int j)
     {
         // MOVE TO THE RIGHT
     }
+    else
+    {
 }
 int main()
 {
